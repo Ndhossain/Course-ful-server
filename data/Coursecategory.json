@@ -1,6 +1,37 @@
 [
     {
-        "name": "Web development",
-        "id": 1
+        "name": "Web Development",
+        "id": 1,
+        "img": "https://i.ibb.co/5YQD9C6/world-wide-web.png"
+    },
+    {
+        "name": "Data Science",
+        "id": 2,
+        "img": "https://i.ibb.co/9H6t2yV/data-science.png"
+    },
+    {
+        "name": "Mobile Development",
+        "id": 3,
+        "img": "https://i.ibb.co/kDXMftM/app-development.png"
+    },
+    {
+        "name": "Game Development",
+        "id": 4,
+        "img": "https://i.ibb.co/XJKS7NS/game-development.png"
+    },
+    {
+        "name": "Database Design and Development",
+        "id": 5,
+        "img": "https://i.ibb.co/Vg1th5f/web.png"
+    },
+    {
+        "name": "Softwear Engineering",
+        "id": 6,
+        "img": "https://i.ibb.co/p2qtGJv/saas.png"
+    },
+    {
+        "name": "Programming Languages",
+        "id": 7,
+        "img": "https://i.ibb.co/pRWBNHy/data.png"
     }
 ]
