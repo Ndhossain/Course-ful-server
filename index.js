@@ -16,12 +16,12 @@ app.get('/categories', (req, res) => {
     res.send(courseCategory);
 })
 
-app.get('/categories/:id', (req, res) => {
+app.get('/courses/:id', (req, res) => {
     const categoryCourses = courses.filter((course) => parseInt(course.categoryId) === parseInt(req.params.id));
     res.send(categoryCourses);
 })
 
-app.get('/courses/:id', (req, res) => {
+app.get('/coursedetails/:id', (req, res) => {
     const specificCourse = courses.find((course) => parseInt(course._id) === parseInt(req.params.id));
     res.send(specificCourse);
 })
