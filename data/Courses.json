@@ -1,0 +1,347 @@
+[
+  {
+    "_id": "6358ad9c2903022c53ffdadb",
+    "categoryId": 1,
+    "price": "$1,79.50",
+    "picture": "https://i.ibb.co/tZdfMn0/javscriptweb.jpg",
+    "name": "JavaScript",
+    "Creator": "TRASOLA",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.5
+    },
+    "language": "English",
+    "description": "  This course if for absolute beginners, and it is an introduction to the major components of javascript. By learning the bigger things in Javascript, you will be able to know how to put the remaining pieces together and will be able to get into advanced courses more prepared. I'm not going to start this course with False promises. At the end of this course, you will NOT become an expert and nor will you in any other course. To become an expert in Javascript or any other programming language you need many hours of practice and experience; more like years of practice and experience. \r\n",
+    "registered": "2018-04-12T12:16:32 -06:00"
+  },
+  {
+    "_id": "6358ad9ca8406e845e3284f7",
+    "categoryId": 1,
+    "price": "$2,06.68",
+    "picture": "https://i.ibb.co/Twg90QG/reactjs.jpg",
+    "name": "React Js",
+    "Creator": "Neil Obrein",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.5
+    },
+    "language": "English",
+    "description": "React JS is a Javascript library for building user interfaces. It's flexible, fast, easy to learn and fun to work with. ReactJS is designed to make the process of building modular, reusable user interface components simple and intuitive. React was developed at Facebook and focuses on the 'View' aspect of MVC in web applications. React was built for the purpose of developing applications that are large in nature and have to deal with time changing data.\r\n",
+    "registered": "2017-01-25T09:58:32 -06:00"
+  },
+  {
+    "_id": "6358ad9c970043a5f310da77",
+    "categoryId": 1,
+    "price": "$1,60.63",
+    "picture": "https://i.ibb.co/F0vPqx6/frontend.jpg",
+    "name": "Frontend",
+    "Creator": "Jimm Corbett",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.5
+    },
+    "language": "English",
+    "description": "Welcome to the Complete Web Development Bootcamp, the only course you need to learn to code and become a full-stack web developer. With 150,000+ ratings and a 4.8 average, my Web Development course is one of the HIGHEST RATED courses in the history of Udemy! At 65+ hours, this Web Development course is without a doubt the most comprehensive web development course available online. Even if you have zero programming experience, this course will take you from beginner to mastery.\r\n",
+    "registered": "2017-02-17T10:36:52 -06:00"
+  },
+  {
+    "_id": "6358ad9c7c892159b7d7e6e7",
+    "categoryId": 1,
+    "price": "$2,89.40",
+    "picture": "https://i.ibb.co/0hx2jF3/backend.jpg",
+    "name": "Backend",
+    "Creator": "BITTOR",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.5
+    },
+    "language": "English",
+    "description": "In this course, you will learn step-by-step how to design, develop and deploy a backend web service from scratch. I believe the best way to learn programming is to build a real application. Therefore, throughout the course, you will learn how to build a backend web service for a simple bank. It will provide APIs for the frontend.\r\n",
+    "registered": "2022-04-22T07:01:14 -06:00"
+  },
+  {
+    "_id": "6358ad9ca4d372f39f5ef98b",
+    "categoryId": 2,
+    "price": "$1,66.63",
+    "picture": "https://i.ibb.co/HXR2fHn/pythondata.jpg",
+    "name": "Python",
+    "Creator": "Parrish Mills",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.8
+    },
+    "language": "English",
+    "description": "Python has rapidly become one of the most popular programming languages around the world. Compared to other languages such as Java or C++, Python consistently outranks and outperforms these languages in demand from businesses and job availability. The average Python developer makes over $100,000 - this number is only going to grow in the coming years.\r\n",
+    "registered": "2014-08-16T08:52:27 -06:00"
+  },
+  {
+    "_id": "6358ad9c2203172dbcfff798",
+    "categoryId": 2,
+    "price": "$2,56.28",
+    "picture": "https://i.ibb.co/TLd3WTW/machinelearning.jpg",
+    "name": "Goodwin Flowers",
+    "Creator": "Machine Learning",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.5
+    },
+    "language": "English",
+    "description": "This course is designed for both complete beginners with no programming experience or experienced developers looking to make the jump to Data Science! This comprehensive course is comparable to other Data Science bootcamps that usually cost thousands of dollars, but now you can learn all that information at a fraction of the cost! With over 100 HD video lectures and detailed code notebooks for every lecture this is one of the most comprehensive course for data science and machine learning on Courseful!\r\n",
+    "registered": "2019-12-20T07:01:10 -06:00"
+  },
+  {
+    "_id": "6358ad9cf43bc3a4e6343e22",
+    "categoryId": 2,
+    "price": "$1,88.35",
+    "picture": "https://i.ibb.co/31mKp6L/dataanalysis.jpg",
+    "name": "Data Anlysis",
+    "Creator": "Carney Montoya",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.6
+    },
+    "language": "English",
+    "description": "Get marketable and highly sought after skills in this course that will increase your knowledge of data analytics, with a focus on descriptive statistics, an important tool for understanding trends in data and making important business decisions.\r\n",
+    "registered": "2016-02-09T03:28:04 -06:00"
+  },
+  {
+    "_id": "6358ad9c7ef1a1335625cccb",
+    "categoryId": 2,
+    "price": "$2,88.32",
+    "picture": "https://i.ibb.co/PrGTSp6/deeplearning.jpg",
+    "name": "Deep Learning",
+    "Creator": "Becky Farrell",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.3
+    },
+    "language": "English",
+    "description": "This course is a lead-in to deep learning and neural networks - it covers a popular and fundamental technique used in machine learning, data science and statistics: logistic regression. We cover the theory from the ground up: derivation of the solution, and applications to real-world problems. We show you how one might code their own logistic regression module in Python.\r\n",
+    "registered": "2014-01-23T06:06:14 -06:00"
+  },
+  {
+    "_id": "6358ad9c838411b1923f66e1",
+    "categoryId": 3,
+    "price": "$2,736.74",
+    "picture": "https://i.ibb.co/m5gLq0P/reactnative.jpg",
+    "name": "React Native",
+    "Creator": "Marian Christian",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.4
+    },
+    "language": "English",
+    "description": "No need to learn Java, Android, Swift, ObjectiveC or anything of that - React and JavaScript is all you need to create awesome native mobile apps that work on both Android and iOS. That's probably the reason why Instagram, AirBnB, Skype and many other global companies are using it to build their mobile apps! With this course, you can join this league. I'll teach you all you need to create your own React Native apps, publish them to the Google Play Store and Apple App Store and dive really deep into the React Native ecosystem.\r\n",
+    "registered": "2019-03-24T12:32:58 -06:00"
+  },
+  {
+    "_id": "6358ad9c13fcc12ee8eedb6d",
+    "categoryId": 3,
+    "price": "$3,420.36",
+    "picture": "https://i.ibb.co/YdxFZB1/swift.jpg",
+    "name": "Swift",
+    "Creator": "Graves Wiley",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.7
+    },
+    "language": "English",
+    "description": "Welcome to the Complete iOS App Development Bootcamp. With over 17,000 5 star ratings, this is the HIGHEST RATED iOS Course of all time! This Swift 4 course is based on our in-person app development bootcamp in London. We've perfected the curriculum over 3 years of in-person teaching. \r\n",
+    "registered": "2022-06-07T09:39:58 -06:00"
+  },
+  {
+    "_id": "6358ad9c6a9f19706fa5444d",
+    "categoryId": 3,
+    "price": "$2,397.06",
+    "picture": "https://i.ibb.co/7KS0F8Z/kotlin.jpg",
+    "name": "Kotlin",
+    "Creator": "Wheeler Bentley",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.3
+    },
+    "language": "English",
+    "description": "Are you Looking to boost your income as an Android Developer? Maybe you have a lot of app ideas but don't know where to start? Or are you seeking a career in Android Development and Kotlin Programming that will finally give you the freedom and flexibility you have been looking for? Build a strong foundation in Android Development, Android Studio, IntelliJ IDEA, and object-oriented Kotlin Programming with this tutorial and complete course.\r\n",
+    "registered": "2021-11-04T12:20:39 -06:00"
+  },
+  {
+    "_id": "6358ad9cd5455c373bdb59de",
+    "categoryId": 3,
+    "price": "$3,625.27",
+    "picture": "https://i.ibb.co/B4yzLcd/flutter.jpg",
+    "name": "Flutter",
+    "Creator": "Workman Burt",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.2
+    },
+    "language": "English",
+    "description": "Learn how to create fast and stunning mobile applications using Flutter, a new mobile framework by google. In this course you will quickly learn how to build an application in Flutter with no previous experience. It is HIGHLY recommended you understand the Dart programming language, see my Dart programming tutorials.\r\n",
+    "registered": "2022-09-04T06:08:17 -06:00"
+  },
+  {
+    "_id": "6358ad9cc8f52c7c5e5273a8",
+    "categoryId": 4,
+    "price": "$2,250.36",
+    "picture": "https://iili.io/DUMgZQ.jpg",
+    "name": "Unity",
+    "Creator": "Gracie Sutton",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.5
+    },
+    "language": "English",
+    "description": "Role Playing Games can be complex to create, with many interacting gameplay systems. We make it easy for you! Learn, step-by-step, how to make the foundations of any good RPG combat system - from scratch. In this course we're focusing on the core of any great RPG, giving your players a fun combat moment in a well crafted level, based upon a solid game design, built using a robust code architecture. You will follow our project, but also make the game entirely your own.\r\n",
+    "registered": "2015-05-30T07:57:47 -06:00"
+  },
+  {
+    "_id": "6358ad9c40e903d686668c9a",
+    "categoryId": 4,
+    "price": "$3,608.08",
+    "picture": "https://iili.io/DUM4nV.jpg",
+    "name": "3d game development",
+    "Creator": "Goldie Albert",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.5
+    },
+    "language": "English",
+    "description": "The creation of beautiful virtual terrains isn't just the domain of the artist, but also of the programmer. What if you could use your programming skills in C# to manipulate a mesh to create realistic landscapes, using algorithms developed by researchers studying landscape formation and erosion? Well now you can. In this course, Penny introduces procedural terrain generation techniques using her internationally acclaimed holistic teaching style and expertise from over 25 years of teaching, research and work in games and computer graphics. Throughout the course you will follow along with hands-on workshops, designed to teach you the fundamental techniques used for generating realistic virtual landscapes.\r\n",
+    "registered": "2015-08-20T10:03:41 -06:00"
+  },
+  {
+    "_id": "6358ad9cb36a26dd0c783f23",
+    "categoryId": 4,
+    "price": "$3,910.81",
+    "picture": "https://iili.io/DUM6MB.jpg",
+    "name": "2d game development",
+    "Creator": "Jana Love",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.5
+    },
+    "language": "English",
+    "description": "This course started as a runaway success on Kickstarter and has gone on to become the most popular and most watched Unity game development course on Udemy. The course has full English closed-captions throughout. Learn how to create video games using Unity, the world-leading free-to-use game development tool. We start super simple so you need no prior experience of Unity or coding! With our online tutorials, you'll be amazed what you can achieve right from the first moment you start the course.\r\n",
+    "registered": "2020-08-23T09:58:35 -06:00"
+  },
+  {
+    "_id": "6358ad9cd2fa35305635ed5a",
+    "categoryId": 5,
+    "price": "$72.57",
+    "picture": "https://iili.io/DUSYbI.jpg",
+    "name": "MongoDB",
+    "Creator": "Adeline Pittman",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.9
+    },
+    "language": "English",
+    "description": "Join this bestselling MongoDB course to learn all about this extremely popular database and query language from the ground up, in great detail and with many practical examples! MongoDB is one of the most important NoSQL databases you can work with these days. It's extremely popular and MongoDB developers are in high demand. No matter if you're building web applications, mobile applications or any other kind of application or if you're a data scientist - you'll need to work with data. Storing data, querying it efficiently and minimizing complexities whilst optimizing performance are crucial tasks.\r\n",
+    "registered": "2020-03-04T04:13:41 -06:00"
+  },
+  {
+    "_id": "6358ad9cd80af97234be276e",
+    "categoryId": 5,
+    "price": "$1,71.73",
+    "picture": "https://iili.io/DUScxt.jpg",
+    "name": "SQL",
+    "Creator": "Ware Carey",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.5
+    },
+    "language": "English",
+    "description": "Learn SQL in 6 days Video Course provides a basic understanding of databases, tables, as well as how to manipulate data with functions like add, edit or delete data from tables and databases. Data retrieval concepts, which includes sorting, filtering, multi-table join, sub-queries and using functions in retrieval statements are discussed in detail.    \r\n",
+    "registered": "2014-03-26T11:47:35 -06:00"
+  },
+  {
+    "_id": "6358ad9ce84bed4b948137a3",
+    "categoryId": 5,
+    "price": "$1,619.42",
+    "picture": "https://iili.io/DUS0sn.jpg",
+    "name": "Database Management",
+    "Creator": "Bette Rhodes",
+    "details": {
+        "totalSell": 2500,
+        "ratings": 4.5
+    },
+    "language": "English",
+    "description": "Although user interfaces hide details of access to a database, and most people are not even aware they are dealing with a database, accessing databases forms an essential part of almost everyone’s life today. On completion of this course, the participant will be able to understand data which forms the back-bone of any and every organisation.\r\n",
+    "registered": "2017-12-03T06:49:09 -06:00"
+  },
+  {
+    "_id": "6358ad9cf09144bed7328a7f",
+    "categoryId": 6,
+    "price": "$1,93.41",
+    "picture": "https://iili.io/DUZL0B.jpg",
+    "name": "Data Structure, Algorithm",
+    "Creator": "Vinson Frank",
+    "details": {
+        "totalSell": 2450,
+        "ratings": 4.3
+    },
+    "language": "English",
+    "description": "Your Search on Learning Data Structures & Algorithms ends here.  Ds & Algos are very easy if you know how exactly they work! And I am here to show its implementation process with  very easy approach using Whiteboard teaching so that you will master on all the essential concepts to clear the Interviews.  The examples I picked in this course will fine tune your thought process and enhance your logical thinking ability. With the approach of  Whiteboard teaching, You will have practical understanding of how Data structures Problems can be analyzed and solved!!\r\n",
+    "registered": "2019-02-12T11:25:47 -06:00"
+  },
+  {
+    "_id": "6358ad9c1a8bc9098e9b0a33",
+    "categoryId": 6,
+    "price": "$2,21.70",
+    "picture": "https://iili.io/DUZsfV.jpg",
+    "name": "Softwear architecture",
+    "Creator": "Hanson Franklin",
+    "details": {
+        "totalSell": 2160,
+        "ratings": 4.4
+    },
+    "language": "English",
+    "description": "Anyone can code. But what differentiates a professional software engineer from a hobbyist coder is how well-designed and well-coded the final product is. Code quality is hard to come by. Unfortunately, most coders start straight without understanding basic concepts of software design. This course will help a budding coder, as well as an established programmer who wants to learn better design and write quality code..\r\n",
+    "registered": "2020-01-24T01:46:41 -06:00"
+  },
+  {
+    "_id": "6358ad9c7cdee1007834eddd",
+    "categoryId": 7,
+    "price": "$130.79",
+    "picture": "https://iili.io/DUy1Ul.jpg",
+    "name": "Java",
+    "Creator": "Patel Oneal",
+    "details": {
+        "totalSell": 2100,
+        "ratings": 4.4
+    },
+    "language": "English",
+    "description": "Are you from non Technical background and looking to master in Java for your Automation needs? If Yes 'YOU ARE ON RIGHT PAGE' I will fulfill your wish with my easy teaching and simple Techniques. Allocate 10 hours of your valuable time to this Top rated (4.6/5) course and get into Comfortable zone in handling Java related Automation/Projects..  \r\n",
+    "registered": "2017-08-20T08:23:46 -06:00"
+  },
+  {
+    "_id": "6358ad9c6065163b87c8ef60",
+    "categoryId": 7,
+    "price": "$1,35.70",
+    "picture": "https://iili.io/DUy0l4.jpg",
+    "name": "C#",
+    "Creator": "Rene Savage",
+    "details": {
+        "totalSell": 1969,
+        "ratings": 4.3
+    },
+    "language": "English",
+    "description": "Learn C# Programming (in ten easy steps) [Version 2] is suitable for beginner programmers or anyone with experience in another programming language who needs to learn C# from the ground up. Step-by-step it explains how to write C# code to develop Windows applications using either the free Visual Studio Community Edition or a commercial edition of Microsoft Visual Studio (it even explains how to write C# programs using free tools for OS X). This is the completely revised and updated second version of this course. \r\n",
+    "registered": "2020-12-22T05:15:56 -06:00"
+  },
+  {
+    "_id": "6358ad9cb081474fb0434d82",
+    "categoryId": 7,
+    "price": "$111.15",
+    "picture": "https://iili.io/Dg9X7p.jpg",
+    "name": "C++",
+    "Creator": "Silva Davis",
+    "details": {
+        "totalSell": 2237,
+        "ratings": 4.8
+    },
+    "language": "English",
+    "description": "This course is presented as a (very large) series of live demonstrations being done in JetBrains CLion. Most demos are single-file, so you can download the file attached to the lesson and run it in CLion, XCode or another IDE of your choice (or just on the command line). This course does not use UML class diagrams; all of demos are live coding.\r\n",
+    "registered": "2014-08-18T12:09:26 -06:00"
+  }
+]

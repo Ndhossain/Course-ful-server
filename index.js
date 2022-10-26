@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
     res.send('My server is running');
 })
 
-app.get('/category', (req, res) => {
+app.get('/categories', (req, res) => {
     res.send(courseCategory);
 })
 
